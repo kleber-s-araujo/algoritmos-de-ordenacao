@@ -1,7 +1,7 @@
 # Algoritmos de Ordenação
 Conjunto de Algoritmos de Ordenação mais utilizados no dia a dia de um Desenvolvedor para uma rápida consulta.
 ### Bubble Sort
-O Algoritmo de Ordenamento [BubbleSorte](https://github.com/kleber-s-araujo/algoritmos-de-ordenacao/blob/main/BubbleSort.js) Compara dois elementos por vez, passando por todo vetor n2 vezes.
+O Algoritmo de Ordenamento [BubbleSorte](https://github.com/kleber-s-araujo/algoritmos-de-ordenacao/blob/main/BubbleSort.js) Compara dois elementos por vez, passando por todo vetor n² vezes.
 ### Selection Sort
 Restringe o número de trocas realizadas ao longo da ordenação.
 ### Insertion Sort 
