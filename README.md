@@ -1,5 +1,5 @@
 # Algoritmos de Ordenação
-Conjunto de Algoritmos de Ordenação mais utilizados no dia a dia de um Desenvolvedor.
+Conjunto de Algoritmos de Ordenação mais utilizados no dia a dia de um Desenvolvedor para uma rápida consulta.
 ### Bubble Sort
 Compara dois elementos por vez, passando por todo vetor n2 vezes.
 ### Selection Sort
