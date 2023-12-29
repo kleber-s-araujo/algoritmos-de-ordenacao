@@ -1,4 +1,4 @@
-# algoritmos-de-ordenacao
+# Algoritmos de Ordenação
 Conjunto de Algoritmos de Ordenação mais utilizados no dia a dia de um Desenvolvedor.
 • Bubble Sort: Compara dois elementos por vez, passando por todo vetor n2 vezes.
 • Selection Sort: Restringe o número de trocas realizadas ao longo da ordenação.
