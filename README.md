@@ -5,7 +5,7 @@ O Algoritmo de Ordenamento [BubbleSort](https://github.com/kleber-s-araujo/algor
 ### Selection Sort
 O Algoritmo de Ordenamento [SelectionSort](https://github.com/kleber-s-araujo/algoritmos-de-ordenacao/blob/main/SelectionSort.js) Restringe o número de trocas realizadas ao longo da ordenação.
 ### Insertion Sort 
-O Algoritmo de Ordenamento [InsertionsSort](https://github.com/kleber-s-araujo/algoritmos-de-ordenacao/blob/main/InsertionSort.js)Abre espaço para inserção, restringindo a área de comparação.
+O Algoritmo de Ordenamento [InsertionsSort](https://github.com/kleber-s-araujo/algoritmos-de-ordenacao/blob/main/InsertionSort.js) Abre espaço para inserção, restringindo a área de comparação.
 ### Merge Sort
 Explora recursividade.
 ### Quick sort 
